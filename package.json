@@ -16,5 +16,8 @@
     "url": "https://github.com/leiDnedyA/budget-filler/issues"
   },
   "homepage": "https://github.com/leiDnedyA/budget-filler#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.42.0"
+  }
 }
